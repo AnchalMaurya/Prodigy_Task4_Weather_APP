@@ -6,9 +6,13 @@ It dynamically updates the **city**, **temperature**, and **weather conditions**
 ## 🚀 Features
 
 ✅ Randomly displays weather details for popular US cities.
+
 ✅ Shows city name, temperature, and weather condition.
+
 ✅ Responsive and minimal UI design.
+
 ✅ Interactive "Refresh" button to get new weather info instantly.
+
 
 ## 📸 Preview
 
@@ -47,7 +51,7 @@ The app instantly updates the weather card with new data.
 
 Clone this repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/AnchalMaurya/weather-app.git
 
 
 Navigate to the project folder:
